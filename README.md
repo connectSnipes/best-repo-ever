@@ -2,4 +2,4 @@
 
 This is for getting hands-on
 
-This is for seocnd commit.
+This is for getiing second commit.
